@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#miCanvas {
+
+    border: solid 1px #ccc;
+    margin-left: 20px;
+    margin-top: 20px;
+    /* background-image:url("./imagenes/hd-wallpaper-gea9e9b656_640.jpg") ; */
+    /* background-color: black; */
+    background-image: url("../imagenes/hd-wallpaper-gea9e9b656_640.jpg");
+
+
+
+}
+
+#miCanvasVidas {
+
+
+    margin-left: 20px;
+    background-color: blue;
+}
+
+#boton {
+
+    position: fixed;
+
+    top: 185px;
+    left: 233px;
+    width: 158px;
+    height: 144px;
+
+
+    border-color: #3f4662;
+    background-color: #2f3349;
+    color: red;
+    border-radius: 5%;
+}
